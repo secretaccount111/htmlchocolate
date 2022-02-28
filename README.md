@@ -1,7 +1,7 @@
 # htmlchocolate
 a webpage made in html.
 
-_______________________
+__
 
 
 if you want to translate this to another language (or slang)
@@ -12,6 +12,6 @@ and translate the words in the title, heading (h1), and paragraph (p)
 
 then add the file to the github page.
 
-__________________________
+__
 
 thank you for cooperating!
